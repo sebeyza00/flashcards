@@ -1,4 +1,4 @@
-# React + Vite
+# WEB102: React Knowledge Flashcards
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
