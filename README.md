@@ -8,5 +8,8 @@ I created a website to test out student's React Knowledge using Flashcards.
 - count takes a value of either 0 or 1. If box is clicked, this value is switched with a ternary operation.
 
 
-![Alt Text]([https://imgur.com/a/PrOowFt.gif])
+
+https://github.com/sebeyza00/flashcards/assets/111407050/de92a057-90c7-4235-aa61-9661d9e4bf12
+
+
 
