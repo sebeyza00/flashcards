@@ -110,3 +110,18 @@ button:focus-visible {
   padding: 10px;
   justify-content: center;
 }
+
+.direction-buttons-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.correct {
+  border-color: lightgreen;
+  color: white;
+}
+
+.incorrect {
+  border-color: lightcoral;
+  color: white;
+}
