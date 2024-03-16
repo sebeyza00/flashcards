@@ -19,5 +19,5 @@ Previous functionality:
 
 <!-- https://github.com/sebeyza00/flashcards/assets/111407050/de92a057-90c7-4235-aa61-9661d9e4bf12 -->
 
-https://imgur.com/a/KNhoZ8a.gif
+https://imgur.com/gallery/KNhoZ8a
 
